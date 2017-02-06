@@ -1,3 +1,6 @@
+*.sw?
+~*
+*~
 *.gem
 *.sublime-project
 *.sublime-workspace
