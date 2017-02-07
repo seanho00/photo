@@ -11,7 +11,7 @@ title                    : "Sean's Photos"
 title_separator          : "-"
 name                     : "Sean Ho"
 description              : "From when I was young..."
-url                      : "https://photo.seanho.com/
+url                      : "https://photo.seanho.com/"
 baseurl                  : ""
 repository               : "seanho00/photo"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
